@@ -1,4 +1,4 @@
-# goodbye_world_flutter
+# Goodbye world
 
 A new Flutter project.
 
